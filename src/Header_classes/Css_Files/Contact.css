@@ -1,0 +1,32 @@
+/* Contact.css */
+
+body.dark #container {
+    background-color: #1a202c; /* Dark background */
+    color: #edf2f7; /* Light text */
+  }
+  
+  body #container {
+    background-color: #f7fafc; /* Light background */
+    color: #2d3748; /* Dark text */
+  }
+  
+  body.dark #footer {
+    background-color: #2d3748;
+    color: #a0aec0;
+  }
+  
+  body #footer {
+    background-color: #3182ce;
+    color: #ffffff;
+  }
+  
+  body.dark .bg-toggle-dark {
+    background-color: #2d3748;
+    color: #edf2f7;
+  }
+  
+  body .bg-toggle-light {
+    background-color: #e2e8f0;
+    color: #2d3748;
+  }
+  
